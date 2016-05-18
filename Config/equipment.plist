@@ -1,0 +1,12 @@
+(
+	(
+		0, 6000, "Thruspace HyperDrive",
+		"EQ_BREAKABLE_WITCHDRIVE",
+		"Irrikan Thruspace Hyperdrive. Standard Equipment for all Hyperspace Capable Ships which creates the wormhole into Witch Space.",
+		{
+			"available_to_all" = 1;
+			"condition_script" = "Breakable_WitchDrive.js";
+		}
+	)
+)
+

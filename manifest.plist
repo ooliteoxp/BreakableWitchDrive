@@ -1,0 +1,12 @@
+{
+    identifier = "oolite.oxp.CaptMurphy.BreakableWitchDrive";
+    title = "Breakable Witch Drive";
+    author = "Capt Murphy";
+    license = "CC BY-NC-SA 3.0";
+    version = "1.3.2";
+    description = "This OXP make the Thruspace Hyperdrive (or Witch Space Drive) into an equipment item that can be damaged in combat.";
+    category = "Equipment";
+    information_url = "http://wiki.alioth.net/index.php/Breakable_%27Standard%27_Equipment_OXPs";
+    tags = ( "Equipment" );
+    required_oolite_version = "1.80";
+}

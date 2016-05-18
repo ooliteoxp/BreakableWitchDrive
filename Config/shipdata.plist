@@ -1,0 +1,13 @@
+{
+"bwd_dummy_entity" = 
+{
+	ai_type = "nullAI.plist";
+	cargo_type = "CARGO_NOT_CARGO";	
+	density = 100000000000;
+	like_ship = "alloy";
+	name = "Malfunction...Malfunction";
+	roles = "bwd_dummy_entity";
+	scanClass = "CLASS_NO_DRAW";
+	script = "bwd_dummy_entity.js";
+};
+}
